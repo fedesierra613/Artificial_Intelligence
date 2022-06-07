@@ -1,1 +1,1 @@
-# Inteligencia_Artificial
+# Inteligencia_Artificial_Methods
